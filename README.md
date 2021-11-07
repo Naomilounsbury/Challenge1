@@ -1,4 +1,4 @@
-#Horiseon Code Refractor
+#Horiseon Code Refactor
 ##In this project, I consolidated the repetitive code in the CSS under the names *benefits* and *products* and made sure all the links connected because the Search Engine Optimization didn't have a Div Id.
 ##I also added overflow auto for the product CSS because they looked weird on my computer.
 
@@ -13,4 +13,7 @@ The text was weird on the product area|The text was didn't flow with a smaller w
 ##Here is a screenshot of the part I changed
     ```md
     ![alt text](/assets/images/CSSCoderefractorscreenshot.png)
+
     ```
+##This is where I will link to the code refactor [code refractor](https://naomilounsbury.github.io/Challenge1/)
+
