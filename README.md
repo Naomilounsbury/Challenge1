@@ -11,9 +11,8 @@ Not all the links worked|The header wasn't completely covering the top of the pa
 The text was weird on the product area|The text was didn't flow with a smaller webpage
 
 ## Here is a screenshot of the part I changed
-    ```md
+
     ![alt text](/assets/images/CSSCoderefractorscreenshot.png)
 
-    ```
 ## This is where I will link to the code refactor. [code refractor.](https://naomilounsbury.github.io/Challenge1/)
 
